@@ -7,7 +7,7 @@ A Full Stack web application developed using Spring Boot that provides RESTful A
 - Java
 - Spring Boot
 - Spring Data JPA
-- Oracle SQL
+- MySQL
 - Maven
 - Postman (API Testing)
 
@@ -27,7 +27,7 @@ A Full Stack web application developed using Spring Boot that provides RESTful A
 
 ## ⚙️ How to Run
 1. Clone the repository
-2. Configure Oracle SQL in application.properties
+2. Configure MySQL in application.properties
 3. Run as Spring Boot Application
 
 ## 📸 API Testing
@@ -35,4 +35,4 @@ Tested using Postman
 
 ---
 
-Developed by Pransu Chaturvedi
+
